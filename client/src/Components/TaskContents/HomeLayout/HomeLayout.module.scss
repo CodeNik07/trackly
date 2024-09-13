@@ -1,0 +1,39 @@
+.mainHomeContainer {
+    display: flex;
+    height: 90vh;
+
+
+    .contentLoadingMain {
+        display: flex;
+        width: 100%;
+        height: auto;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .nodatadivstyle{
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+        .nodataimgdivstyles {
+            width: 30%;
+            text-align: center;
+    
+            p{
+                color: #9553a0;
+                font-weight: bold;
+                font-size: x-large;
+            }
+    
+            .loginImgStyle {
+    
+    
+            }
+        }
+    }
+
+}
+

@@ -1,0 +1,28 @@
+.taskcardheaddiv {
+    width: auto;
+    display: flex;
+
+    .taskcardheading {
+        width: 100%;
+        font-weight: bold;
+        text-transform: capitalize;
+    }
+
+
+    .deletebtndivstyle {
+        width: 40px;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+
+        .deletebtnstyle {
+            width: 20px;
+            height: auto;
+        }
+        
+
+    }
+
+}

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Roboto&display=swap');
+
+
+.navbarTaskAppHeading {
+    color: #c177ce;
+    text-decoration: none;
+    font-size: xx-large;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+.userIconStyle {
+    width: 25px;
+    height: auto;
+    margin: 2px;
+}
+
+.userIconsDropStyle {
+    cursor: pointer;
+    padding: 4px;
+    color: #c177ce;
+    background-color: #f8f9fa;
+    border: none;
+}

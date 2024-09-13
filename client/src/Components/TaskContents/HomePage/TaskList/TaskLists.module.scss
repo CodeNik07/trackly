@@ -1,0 +1,76 @@
+.tasklist {
+    width: 255px;
+    height: auto;
+    min-height: 100px;
+    background-color: #6247aa;
+    padding: 2px;
+
+
+    .taskslisthead {
+        width: auto;
+        display: flex;
+        padding: 10px 0px 0px 18px;
+
+        .taskListHeading {
+            // min-width: 60%;
+            width: 100%;
+            margin: 6px;
+            color: white;
+            font-weight: bold;
+            text-transform: capitalize;
+        }
+    
+
+        .deletebtndivstyle {
+            width: 40px;
+            height: auto;
+            margin: 4px 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+
+            .deletebtnstyle {
+                color: white;
+                width: 20px;
+                height: auto;
+            }
+            
+
+        }
+
+        .deletebtndivstyle:hover {
+            background-color: #d2b7e5;
+            .deletebtnstyle {
+                color: #47126b;
+            }
+        }
+
+    }
+
+
+
+
+    .addnewbuttondiv {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+
+        .addnewtaskstyle {
+            width: 100%;
+            color: white;
+            font-weight: bold;
+            background-color: #a06cd5;
+            border-radius: 6px;
+        }
+
+        .addnewtaskstyle:hover {
+
+            color: white;
+            background-color: #cbaae2;
+            border: 1px solid #6d23b6;
+        }
+    }
+
+
+}

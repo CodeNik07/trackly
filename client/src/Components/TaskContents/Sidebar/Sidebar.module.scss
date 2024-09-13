@@ -1,0 +1,91 @@
+.taskHomeSidebar {
+    width: 250px;
+    height: auto;
+    min-height: 90vh;
+    max-height: 100vh;
+    padding: 16px;
+    overflow-y: auto;
+    color: white;
+    background-color: #47126b;
+
+
+    .item_active {
+        background-color: #a06cd5;
+    }
+
+
+    .sidebarboardlist {
+        display: flex;
+        flex-direction: column;
+        overflow-y: auto;
+        height: 60vh;
+
+        .boardListSidebar {
+            width: 100%;
+            border: 1px solid #a06cd5;
+            height: auto;
+            display: flex;
+            align-items: center;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 6px 0px;
+    
+    
+            .boardListSidebarLink {
+                width: 80%;
+                height: 100%;
+                padding: 4px 8px;
+                font-size: large;
+                text-decoration: none;
+                background-color: #a06cd5;
+                color: white;
+                background: transparent;
+            }
+    
+            .boardListSidebarLink:hover {
+                color: #47126b;
+                font-weight: bolder;
+                background-color: #d2b7e5;
+                border: 1px solid #6d23b6;
+            }
+    
+            .deletebntdivstyle {
+                width: 20%;
+                height: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+    
+                .deleteiconstyle {
+                    color: white;
+                }
+    
+                
+            }
+            .deletebntdivstyle:hover {
+                background-color: #d2b7e5;
+                .deleteiconstyle{
+                    color: #47126b;
+                
+                }
+            }
+    
+        }
+
+    }
+
+
+    .sidebarBoardButton {
+        color: white;
+        font-weight: bold;
+        background-color: #a06cd5;
+        text-align: left;
+    }
+
+    .sidebarBoardButton:hover {
+        color: #47126b;
+        font-weight: bolder;
+        background-color: #d2b7e5;
+        border: 1px solid #6d23b6;
+    }
+}
