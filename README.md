@@ -61,13 +61,13 @@ To get started with Trackly, follow these steps:
 
 ## Technology Stack
 
-- **Frontend** :
+- **Frontend** :<br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,sass)](https://skillicons.dev)
 
-- **Backend** :
+- **Backend** :<br/>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo)](https://skillicons.dev)
 
-- **Tools** :
+- **Tools** :<br/>
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
 
 
