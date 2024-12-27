@@ -2,6 +2,8 @@
 
 Trackly is a task management application built using the MERN stack. Inspired by Trello, Trackly allows users to create an account and manage their daily tasks efficiently, helping them stay organized and productive.
 
+## Project Video
+- Google Drive Link - [here](https://drive.google.com/file/d/1XK1nA_mk0DBHVZIuSMjtIgezE6LyQM5s/view?usp=drive_link)
 ## Table of Contents
 
 - [Features](#features)
